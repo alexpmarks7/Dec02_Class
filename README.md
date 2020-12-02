@@ -4,3 +4,5 @@ For practicing GitHub, delete soon
 *Text here*
 
 **Changes**
+
+Conflict
